@@ -4,6 +4,7 @@
 *  - play button
 *  - pause button
 *  - sound effect
+*
 **/
 
 var game;
